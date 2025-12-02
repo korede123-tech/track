@@ -1,0 +1,9 @@
+{
+  "NG": [
+    { "name": "Essence", "artist": "Wizkid ft. Tems", "preview_url": "audio/essence.mp3" },
+    { "name": "Soco", "artist": "Starboy", "preview_url": "audio/soco.mp3" }
+  ],
+  "GH": [
+    { "name": "Second Song", "artist": "Artist X", "preview_url": "audio/song.mp3" }
+  ]
+}
